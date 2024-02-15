@@ -5,7 +5,8 @@
 ## style 추가
     -style.md 파일 축
 
-
+## 푸터 추가
+    -footer.md 파일 추가
 깃허브에서 수정 중 pull 연습할 예정
 
 
